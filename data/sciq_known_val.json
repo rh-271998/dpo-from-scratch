@@ -1,0 +1,2018 @@
+[
+  {
+    "question": "Who proposed the theory of evolution by natural selection?",
+    "correct": "darwin",
+    "distractors": [
+      "Linnaeus",
+      "shaw",
+      "Scopes"
+    ]
+  },
+  {
+    "question": "What are arteries, veins, and capillaries examples of?",
+    "correct": "blood vessels",
+    "distractors": [
+      "muscles",
+      "organs",
+      "tissue"
+    ]
+  },
+  {
+    "question": "Biochemical reactions of metabolism include what two general categories?",
+    "correct": "catabolic and anabolic",
+    "distractors": [
+      "innumerable and anabolic",
+      "discrete and telltale",
+      "telltale and anabolic"
+    ]
+  },
+  {
+    "question": "What organ has four major regions: the cerebrum, the diencephalon, the stem, and the cerebellum?",
+    "correct": "brain",
+    "distractors": [
+      "liver",
+      "lungs",
+      "heart"
+    ]
+  },
+  {
+    "question": "What is the ratio of the mass of an object to its volume?",
+    "correct": "density",
+    "distractors": [
+      "frequency",
+      "median",
+      "diameter"
+    ]
+  },
+  {
+    "question": "The science dealing with the study of the atmosphere is known as what?",
+    "correct": "meteorology",
+    "distractors": [
+      "geology",
+      "climatology",
+      "cosmology"
+    ]
+  },
+  {
+    "question": "What plant structures are the main avenues by which water evaporates from the sporophyte?",
+    "correct": "stomata",
+    "distractors": [
+      "veins",
+      "chlorophyll",
+      "chloroplasts"
+    ]
+  },
+  {
+    "question": "What cause many human diseases by killing host cells or disturbing their homeostasis?",
+    "correct": "viruses",
+    "distractors": [
+      "parasites",
+      "cancer",
+      "bacteria"
+    ]
+  },
+  {
+    "question": "What are the organisms that live in extreme conditions known as?",
+    "correct": "extremophiles",
+    "distractors": [
+      "carotenoids",
+      "fibroblasts",
+      "naturophiles"
+    ]
+  },
+  {
+    "question": "What does the pull of the moon's gravity on earth cause?",
+    "correct": "tides",
+    "distractors": [
+      "earthquakes",
+      "storms",
+      "waves"
+    ]
+  },
+  {
+    "question": "A water molecule forms when oxygen (o) and _______  atoms react and are held together by covalent bonds?",
+    "correct": "hydrogen (h)",
+    "distractors": [
+      "nitrogen",
+      "carbon",
+      "steam"
+    ]
+  },
+  {
+    "question": "What  is the process by which the nucleus of a eukaryotic cell divides?",
+    "correct": "mitosis",
+    "distractors": [
+      "meiosis",
+      "angiogenesis",
+      "cytokinesis"
+    ]
+  },
+  {
+    "question": "What is the name of specialized organs that filter the lymph by percolation through a maze of connective tissue filled with white blood cells?",
+    "correct": "lymph nodes",
+    "distractors": [
+      "alveoli",
+      "edema glands",
+      "cochlea"
+    ]
+  },
+  {
+    "question": "What are hydrocarbons most important use?",
+    "correct": "fuel",
+    "distractors": [
+      "lightsource",
+      "food",
+      "electricity"
+    ]
+  },
+  {
+    "question": "Vertebrates - including fish, amphibians, reptiles, birds, and mammals - belong to what phylum?",
+    "correct": "chordata",
+    "distractors": [
+      "angulata",
+      "nematota",
+      "animalia"
+    ]
+  },
+  {
+    "question": "An electrostatic attraction between two ions that have exchanged what?",
+    "correct": "electrons",
+    "distractors": [
+      "neutrons",
+      "quasars",
+      "protons"
+    ]
+  },
+  {
+    "question": "Through which process are plants able to make their own food?",
+    "correct": "photosynthesis",
+    "distractors": [
+      "cell division",
+      "glycolysis",
+      "metabolism"
+    ]
+  },
+  {
+    "question": "What kind of waves are sound waves?",
+    "correct": "mechanical",
+    "distractors": [
+      "External",
+      "internal",
+      "spinning"
+    ]
+  },
+  {
+    "question": "The classes anthozoa, scyphozoa, cubozoa, and hydrozoa make up what phylum?",
+    "correct": "cnidaria",
+    "distractors": [
+      "crinoids",
+      "mollusca",
+      "poriferia"
+    ]
+  },
+  {
+    "question": "What do you call air flowing over earth\u2019s surface?",
+    "correct": "wind",
+    "distractors": [
+      "gas",
+      "steam",
+      "air pressure"
+    ]
+  },
+  {
+    "question": "Cells of what category of organisms can be organized at the level of cells, tissues, organs, and organ systems?",
+    "correct": "multicellular",
+    "distractors": [
+      "biomolecular",
+      "intricate",
+      "complex"
+    ]
+  },
+  {
+    "question": "What is the circular center of a hurricane better known as?",
+    "correct": "the eye",
+    "distractors": [
+      "the epicenter",
+      "the nose",
+      "the focus"
+    ]
+  },
+  {
+    "question": "What kind of model - which includes producers, consumers and decomposers - shows the interactions between organisms across trophic levels?",
+    "correct": "food web",
+    "distractors": [
+      "interdepence web",
+      "fuel web",
+      "organic web"
+    ]
+  },
+  {
+    "question": "Beta decay occurs when a nucleus has too few of what relative to protons?",
+    "correct": "neutrons",
+    "distractors": [
+      "protons",
+      "electrons",
+      "nuclei"
+    ]
+  },
+  {
+    "question": "Trees have woody stems covered with what?",
+    "correct": "bark",
+    "distractors": [
+      "larvae",
+      "rust",
+      "shells"
+    ]
+  },
+  {
+    "question": "The effect of acetylcholine in heart muscle is inhibitory rather than what?",
+    "correct": "excitatory",
+    "distractors": [
+      "neurotransmitter",
+      "olfactory",
+      "exofactory"
+    ]
+  },
+  {
+    "question": "All alkaline earth metals have similar properties because they all have two what?",
+    "correct": "valence electrons",
+    "distractors": [
+      "balanced electrons",
+      "transitions electrons",
+      "caesium electrons"
+    ]
+  },
+  {
+    "question": "Is the yolk more or less concentrated toward the animal pole?",
+    "correct": "less concentrated",
+    "distractors": [
+      "more concentrated",
+      "same concentrated",
+      "no change"
+    ]
+  },
+  {
+    "question": "What are the location where bones come together?",
+    "correct": "joints",
+    "distractors": [
+      "muscles",
+      "Knees",
+      "fingers"
+    ]
+  },
+  {
+    "question": "What are the organelles where the process of photosynthesis takes place in plants and algae.",
+    "correct": "chloroplasts",
+    "distractors": [
+      "fibroblasts",
+      "mitochondria",
+      "ribosomes"
+    ]
+  },
+  {
+    "question": "Magnetic poles always occur in pairs - what are the names of each pole?",
+    "correct": "north and south",
+    "distractors": [
+      "prime and equator",
+      "tropic and arctic",
+      "southwest and south"
+    ]
+  },
+  {
+    "question": "Anemia is a disease that affects what?",
+    "correct": "blood",
+    "distractors": [
+      "brain",
+      "heart",
+      "kidney"
+    ]
+  },
+  {
+    "question": "Sulfur dioxide produced by burning coal is the leading cause of what deadly phenomenon?",
+    "correct": "acid rain",
+    "distractors": [
+      "hail",
+      "carbon rain",
+      "dioxide rain"
+    ]
+  },
+  {
+    "question": "What results when volcanic ash encircles the globe, blocking the sun and lowering the temperature of the entire planet?",
+    "correct": "volcanic winter",
+    "distractors": [
+      "volcanic freeze",
+      "seismic apocalypse",
+      "seismic winter"
+    ]
+  },
+  {
+    "question": "What is an area in a body of water where nothing grows because there is too little oxygen known as?",
+    "correct": "dead zone",
+    "distractors": [
+      "missing zone",
+      "cold zone",
+      "deceased zone"
+    ]
+  },
+  {
+    "question": "A phase diagram plots pressure and what else?",
+    "correct": "temperature",
+    "distractors": [
+      "oxygen",
+      "volume",
+      "precipitation"
+    ]
+  },
+  {
+    "question": "What is the process called in which populations of organisms change over time?",
+    "correct": "evolution",
+    "distractors": [
+      "generation",
+      "emergence",
+      "mutation"
+    ]
+  },
+  {
+    "question": "Glucose that remains in the filtrate of what organ is excreted?",
+    "correct": "kidney",
+    "distractors": [
+      "spleen",
+      "intestine",
+      "liver"
+    ]
+  },
+  {
+    "question": "The cell regulates most molecules that pass through what cell structure?",
+    "correct": "cell membrane",
+    "distractors": [
+      "plasma",
+      "ribosome",
+      "protective wall"
+    ]
+  },
+  {
+    "question": "Which scale measures acids and bases and has 7 as a neutral value?",
+    "correct": "ph",
+    "distractors": [
+      "rock",
+      "color",
+      "respiration"
+    ]
+  },
+  {
+    "question": "An artery is a blood vessel that conducts blood away from the what?",
+    "correct": "heart",
+    "distractors": [
+      "stomach",
+      "brain",
+      "lung"
+    ]
+  },
+  {
+    "question": "What linear polymer of glucose units is found in plants and serves a structural purpose?",
+    "correct": "cellulose",
+    "distractors": [
+      "frucose",
+      "carbonate",
+      "sucrose"
+    ]
+  },
+  {
+    "question": "How many bases does dna have in total?",
+    "correct": "four",
+    "distractors": [
+      "three",
+      "twelve",
+      "six"
+    ]
+  },
+  {
+    "question": "What is a protein containing four subunits that transports oxygen throughout the body?",
+    "correct": "hemoglobin",
+    "distractors": [
+      "insulin",
+      "collagen",
+      "keratin"
+    ]
+  },
+  {
+    "question": "Cellular respiration that proceeds in the absence of oxygen is called what?",
+    "correct": "anaerobic respiration",
+    "distractors": [
+      "exasperation",
+      "perspiration",
+      "aerobic respiration"
+    ]
+  },
+  {
+    "question": "What kind of energy can both cause cancer and help in detecting and treating it?",
+    "correct": "radiation",
+    "distractors": [
+      "electricity",
+      "heat",
+      "wind"
+    ]
+  },
+  {
+    "question": "Intraspecific competition occurs between members of the same what?",
+    "correct": "species",
+    "distractors": [
+      "genus",
+      "phylum",
+      "specimens"
+    ]
+  },
+  {
+    "question": "Plants take in carbon dioxide and give off what?",
+    "correct": "oxygen",
+    "distractors": [
+      "methane",
+      "chlorophyll",
+      "nitrogen"
+    ]
+  },
+  {
+    "question": "Which is the main organ of the respiratory system?",
+    "correct": "the lungs",
+    "distractors": [
+      "the stomach",
+      "the mouth",
+      "the liver"
+    ]
+  },
+  {
+    "question": "Like ammonia, hydrazine is both a br\u00f8nsted base and which other base?",
+    "correct": "lewis base",
+    "distractors": [
+      "dynamic base",
+      "unit base",
+      "floyd base"
+    ]
+  },
+  {
+    "question": "What are the tiny, negatively charged particles in an atom that move around the positive nucleus at the center?",
+    "correct": "electrons",
+    "distractors": [
+      "protons",
+      "quarks",
+      "neutrons"
+    ]
+  },
+  {
+    "question": "Organic compounds produced by what process provide the energy and building material for ecosystems?",
+    "correct": "photosynthesis",
+    "distractors": [
+      "cyclogenesis",
+      "nuclear fusion",
+      "glycolysis"
+    ]
+  },
+  {
+    "question": "As you increase the temperature of a liquid what happens to the solubility of a solute?",
+    "correct": "solubility increases",
+    "distractors": [
+      "turbidity increases",
+      "hydrophilic increases",
+      "viscosity increases"
+    ]
+  },
+  {
+    "question": "Toward the end of pregnancy, the synthesis of oxytocin receptors in what reproductive organ increases?",
+    "correct": "uterus",
+    "distractors": [
+      "stomach",
+      "liver",
+      "lungs"
+    ]
+  },
+  {
+    "question": "What are the two vibrating fields that electromagnetic waves consist of?",
+    "correct": "electric and magnetic",
+    "distractors": [
+      "flammable and magnetic",
+      "magnetic and mechanical",
+      "radioactive and magnetic"
+    ]
+  },
+  {
+    "question": "Active transport moves substances from an area of lower concentration to an area of?",
+    "correct": "higher concentration",
+    "distractors": [
+      "flat concentration",
+      "low concentration",
+      "the same concentration"
+    ]
+  },
+  {
+    "question": "Only animals have muscle tissue and what other type of tissue?",
+    "correct": "nervous",
+    "distractors": [
+      "nonvascular tissue",
+      "vascular tissue",
+      "cartilage"
+    ]
+  },
+  {
+    "question": "Most living things build proteins from the same 20 different what?",
+    "correct": "amino acids",
+    "distractors": [
+      "uncommon acids",
+      "atomic isolates",
+      "acid peptides"
+    ]
+  },
+  {
+    "question": "What organelles do animal cells use to convert food into energy?",
+    "correct": "mitochondria",
+    "distractors": [
+      "endoplasmic reticulum",
+      "nucleus",
+      "flagellum"
+    ]
+  },
+  {
+    "question": "What delivers natural gas from rock that might not otherwise be obtainable?",
+    "correct": "fracking",
+    "distractors": [
+      "rippling",
+      "drilling",
+      "grinding"
+    ]
+  },
+  {
+    "question": "Name the white blood cells that can squeeze through capillary walls and swallow particles.",
+    "correct": "neutrophils",
+    "distractors": [
+      "platelets",
+      "lymphocytes",
+      "hemoglobin"
+    ]
+  },
+  {
+    "question": "In projectile motion, the horizontal displacement of an object is called its what?",
+    "correct": "range",
+    "distractors": [
+      "width",
+      "height",
+      "variety"
+    ]
+  },
+  {
+    "question": "The secretion of what may influence the body\u2019s circadian rhythms?",
+    "correct": "melatonin",
+    "distractors": [
+      "human growth hormone",
+      "testosterone",
+      "serotonin"
+    ]
+  },
+  {
+    "question": "What process affecting genes or chromosomes causes genetic disorders?",
+    "correct": "mutation",
+    "distractors": [
+      "radiation",
+      "infection",
+      "graduation"
+    ]
+  },
+  {
+    "question": "Oncogenesis is one name for the process where normal cells turn into what?",
+    "correct": "cancer cells",
+    "distractors": [
+      "lung cells",
+      "brain cells",
+      "blood cells"
+    ]
+  },
+  {
+    "question": "What are cyclic compounds which have an element other than carbon atoms in the ring?",
+    "correct": "heterocyclic compounds",
+    "distractors": [
+      "axial compounds",
+      "homocyclic compounds",
+      "polymeric compounds"
+    ]
+  },
+  {
+    "question": "What term in science describes not just a guess, but a well-formed set of explanations for a phenomenon?",
+    "correct": "theory",
+    "distractors": [
+      "hypothesis",
+      "concept",
+      "evolution"
+    ]
+  },
+  {
+    "question": "Although helper t cells do not destroy infected or damaged body cells, they are still necessary for what?",
+    "correct": "immune response",
+    "distractors": [
+      "brain response",
+      "mutations response",
+      "lung response"
+    ]
+  },
+  {
+    "question": "In their processes of gene expression, archael cells show similarties to both bacterial cells and which other type of cell?",
+    "correct": "eukaryotic",
+    "distractors": [
+      "Prokaryotic",
+      "chloroplasts",
+      "plant cells"
+    ]
+  },
+  {
+    "question": "What term refers to the amount of solute that can dissolve in a given amount of solvent at a given temperature?",
+    "correct": "solubility",
+    "distractors": [
+      "viscosity",
+      "saturation",
+      "turbidity"
+    ]
+  },
+  {
+    "question": "Although quite different, beryllium, magnesium, calcium, strontium, barium, and radium are all classified as what type of metals?",
+    "correct": "alkaline earth metals",
+    "distractors": [
+      "mucous earth metals",
+      "detergent earth metals",
+      "acidic earth metals"
+    ]
+  },
+  {
+    "question": "What is the name of matter that mechanical wave energy can only travel through?",
+    "correct": "medium",
+    "distractors": [
+      "form",
+      "solid",
+      "weight"
+    ]
+  },
+  {
+    "question": "What is able to occur because no surface is perfectly smooth?",
+    "correct": "friction",
+    "distractors": [
+      "mass",
+      "tension",
+      "temperature"
+    ]
+  },
+  {
+    "question": "What is the fusing of two or more smaller nuclei to form a single, larger nucleus?",
+    "correct": "nuclear fusion",
+    "distractors": [
+      "atomic fusion",
+      "likely fusion",
+      "radiactive fusion"
+    ]
+  },
+  {
+    "question": "What part of the plant absorbs water?",
+    "correct": "roots",
+    "distractors": [
+      "leaves",
+      "stem",
+      "flower"
+    ]
+  },
+  {
+    "question": "Allergy symptoms can be treated with medications such as?",
+    "correct": "antihistamines",
+    "distractors": [
+      "antibiotics",
+      "channel blockers",
+      "hormone treatments"
+    ]
+  },
+  {
+    "question": "Which type of carbohydrate is glucose?",
+    "correct": "simple",
+    "distractors": [
+      "compound",
+      "fluid",
+      "sweet"
+    ]
+  },
+  {
+    "question": "Strength, the ability of a muscle to use force during a contraction, differs from what term meaning the ability of a muscle to continue to contract over time without getting tired?",
+    "correct": "endurance",
+    "distractors": [
+      "resilience",
+      "energy",
+      "recovery"
+    ]
+  },
+  {
+    "question": "What type of virus is the flu caused by?",
+    "correct": "influenza",
+    "distractors": [
+      "Rubella",
+      "pneumonia",
+      "Mononucleosis"
+    ]
+  },
+  {
+    "question": "Almost all leaves are specialized for what process?",
+    "correct": "photosynthesis",
+    "distractors": [
+      "measurements",
+      "reactions",
+      "sex"
+    ]
+  },
+  {
+    "question": "An equipotential line is a line along which the electric potential is wht?",
+    "correct": "constant",
+    "distractors": [
+      "increasing",
+      "decreasing",
+      "changeable"
+    ]
+  },
+  {
+    "question": "Peristalsis is necessary for what basic bodily function?",
+    "correct": "digestion",
+    "distractors": [
+      "reproduction",
+      "respiration",
+      "regeneration"
+    ]
+  },
+  {
+    "question": "A change in species over time is known as?",
+    "correct": "evolution",
+    "distractors": [
+      "variation",
+      "generation",
+      "divergence"
+    ]
+  },
+  {
+    "question": "Each f atom has one bonding pair and three lone pairs of what?",
+    "correct": "electrons",
+    "distractors": [
+      "ions",
+      "megatrons",
+      "protons"
+    ]
+  },
+  {
+    "question": "What is the name for the amount of energy that is required in order to begin a chemical reaction?",
+    "correct": "activation",
+    "distractors": [
+      "function",
+      "catalytic",
+      "conduction"
+    ]
+  },
+  {
+    "question": "Matter is composed of exceedingly small particles called what?",
+    "correct": "atoms",
+    "distractors": [
+      "crystals",
+      "cells",
+      "ions"
+    ]
+  },
+  {
+    "question": "Gases have no definite shape or what?",
+    "correct": "volume",
+    "distractors": [
+      "growth",
+      "mass",
+      "smell"
+    ]
+  },
+  {
+    "question": "Elements have orbitals that are filled with what?",
+    "correct": "electrons",
+    "distractors": [
+      "particles",
+      "ions",
+      "photons"
+    ]
+  },
+  {
+    "question": "Touching, coughing, or sneezing are examples of directly spreading what microorganisms, which cause diseases like tetanus?",
+    "correct": "bacteria",
+    "distractors": [
+      "pollen",
+      "viruses",
+      "algae"
+    ]
+  },
+  {
+    "question": "In which process do paired chromosomes normally separate from each other?",
+    "correct": "meiosis",
+    "distractors": [
+      "mutations",
+      "gametes",
+      "diffusion"
+    ]
+  },
+  {
+    "question": "The mammalian sense of touch also relies on mechanoreceptors that are the dendrites of sensory?",
+    "correct": "neurons",
+    "distractors": [
+      "ions",
+      "nerves",
+      "electrons"
+    ]
+  },
+  {
+    "question": "Purple loosestrife is a european wildflower that was introduced to which continent in the 1800's?",
+    "correct": "north america",
+    "distractors": [
+      "south america",
+      "asia",
+      "australia"
+    ]
+  },
+  {
+    "question": "What part is written first when naming an ionic compound?",
+    "correct": "cation",
+    "distractors": [
+      "anion",
+      "Atom",
+      "carbonate"
+    ]
+  },
+  {
+    "question": "How does adding salt to water affect the boiling point?",
+    "correct": "increases",
+    "distractors": [
+      "no difference",
+      "reduces",
+      "maintains"
+    ]
+  },
+  {
+    "question": "Special cell in the epidermis of the skin that produces the brown pigment called what?",
+    "correct": "melanin",
+    "distractors": [
+      "cytoplasm",
+      "selenium",
+      "melatonin"
+    ]
+  },
+  {
+    "question": "Science works hand in hand with what for the advancement of both?",
+    "correct": "technology",
+    "distractors": [
+      "industry",
+      "government",
+      "banks"
+    ]
+  },
+  {
+    "question": "Burning fossil fuels releases what into the atmosphere?",
+    "correct": "carbon dioxide",
+    "distractors": [
+      "carbon monoxide",
+      "phosphorus dioxide",
+      "nitrogen dioxide"
+    ]
+  },
+  {
+    "question": "Momentum can be expressed as the product of mass and what else?",
+    "correct": "velocity",
+    "distractors": [
+      "density",
+      "direction",
+      "acceleration"
+    ]
+  },
+  {
+    "question": "Who was the first person known to use a telescope to study the sky?",
+    "correct": "galileo",
+    "distractors": [
+      "Copernicus",
+      "darwin",
+      "Einstein"
+    ]
+  },
+  {
+    "question": "What kind of decay is electron capture a type of?",
+    "correct": "beta decay",
+    "distractors": [
+      "gamma decay",
+      "gradual decay",
+      "alpha decay"
+    ]
+  },
+  {
+    "question": "When water freezes, it expands in volume as what is formed?",
+    "correct": "ice",
+    "distractors": [
+      "movement",
+      "plasma",
+      "energy"
+    ]
+  },
+  {
+    "question": "What is a substance or object that absorbs and dissipates heat but does not experience a corresponding increase in temperature?",
+    "correct": "heat sink",
+    "distractors": [
+      "heat diffuser",
+      "heat storer",
+      "heat dispeller"
+    ]
+  },
+  {
+    "question": "The brain case consists of eight bones which include the paired parietal and temporal bones, plus the unpaired frontal, occipital, sphenoid, and which other bone?",
+    "correct": "ethmoid",
+    "distractors": [
+      "altoid",
+      "perpendicular",
+      "posterior"
+    ]
+  },
+  {
+    "question": "Rems, rads, and curies are all used to measure what?",
+    "correct": "radioactivity",
+    "distractors": [
+      "gravity",
+      "potential energy",
+      "thermal energy"
+    ]
+  },
+  {
+    "question": "Sometimes referred to as air, what do we call the mixture of gases that surrounds the planet?",
+    "correct": "atmosphere",
+    "distractors": [
+      "outer space",
+      "galaxy",
+      "hemisphere"
+    ]
+  },
+  {
+    "question": "What are the long carbon chains that make up lipids?",
+    "correct": "fatty acids",
+    "distractors": [
+      "proteins",
+      "carbohydrates",
+      "nucleic acids"
+    ]
+  },
+  {
+    "question": "Bases turn red litmus paper which color?",
+    "correct": "blue",
+    "distractors": [
+      "pink",
+      "white",
+      "white"
+    ]
+  },
+  {
+    "question": "What is the term for the flow of charge that a voltage source creates?",
+    "correct": "current",
+    "distractors": [
+      "force",
+      "output",
+      "velocity"
+    ]
+  },
+  {
+    "question": "What collect sunlight on the roof of a house for energy?",
+    "correct": "solar panels",
+    "distractors": [
+      "infrared panels",
+      "clay tiles",
+      "asphalt shingles"
+    ]
+  },
+  {
+    "question": "The light reactions are the steps of photosynthesis that convert solar energy to what other type of energy?",
+    "correct": "chemical energy",
+    "distractors": [
+      "kinetic energy",
+      "carbon energy",
+      "radiation energy"
+    ]
+  },
+  {
+    "question": "What is the name for a fertilized cell that results from the uniting of two gametes?",
+    "correct": "zygote",
+    "distractors": [
+      "chromosomes",
+      "eggs",
+      "sperm"
+    ]
+  },
+  {
+    "question": "What is the sticky, moist substance that covers mucous membranes called?",
+    "correct": "mucus",
+    "distractors": [
+      "saliva",
+      "phlegm",
+      "pus"
+    ]
+  },
+  {
+    "question": "The length of the route between two points is known as what?",
+    "correct": "distance",
+    "distractors": [
+      "velocity",
+      "direction",
+      "shape"
+    ]
+  },
+  {
+    "question": "What is the term for the distance that sound waves travel in a given amount of time?",
+    "correct": "speed of sound",
+    "distractors": [
+      "velocity of sound",
+      "sound barrier",
+      "sonic speed"
+    ]
+  },
+  {
+    "question": "What occurs when the vapor pressure of a liquid is equal to the atmospheric pressure?",
+    "correct": "boiling",
+    "distractors": [
+      "freezing",
+      "melting",
+      "evaporation"
+    ]
+  },
+  {
+    "question": "What does fluoride in toothpaste help prevent?",
+    "correct": "tooth decay",
+    "distractors": [
+      "cavities",
+      "gum disease",
+      "plaque build up"
+    ]
+  },
+  {
+    "question": "Proteins may be defined as compounds of high molar mass consisting largely or entirely of chains of these?",
+    "correct": "amino acids",
+    "distractors": [
+      "nucleic acids",
+      "fatty acids",
+      "enzymes"
+    ]
+  },
+  {
+    "question": "Baroreceptors are specialized stretch receptors located within thin areas of blood vessels and heart chambers that respond to the degree of stretch caused by the presence of this?",
+    "correct": "blood",
+    "distractors": [
+      "bile",
+      "water",
+      "bacteria"
+    ]
+  },
+  {
+    "question": "Ultraviolet light has higher frequencies and shorter wavelengths than visible light, which means it has more what?",
+    "correct": "energy",
+    "distractors": [
+      "width",
+      "pressure",
+      "length"
+    ]
+  },
+  {
+    "question": "Which is the body system that normally fights infections and defends against other causes of disease?",
+    "correct": "immune system",
+    "distractors": [
+      "circulatory system",
+      "infectious system",
+      "reproductive system"
+    ]
+  },
+  {
+    "question": "How does a sexually transmitted infection spread?",
+    "correct": "sexual contact",
+    "distractors": [
+      "enviromental contact",
+      "linear contact",
+      "dramatic contact"
+    ]
+  },
+  {
+    "question": "Prokaryotes are much simpler than what in many of their features?",
+    "correct": "eukaryotes",
+    "distractors": [
+      "meteorites",
+      "membranes",
+      "microorganisms"
+    ]
+  },
+  {
+    "question": "What is a genetic disorder in which blood fails to clot properly because a normal clotting factor in the blood is lacking?",
+    "correct": "hemophilia",
+    "distractors": [
+      "hypertension",
+      "sickle cell",
+      "anemia"
+    ]
+  },
+  {
+    "question": "What is the smallest particle of an element that still has the properties of that element?",
+    "correct": "atom",
+    "distractors": [
+      "electron",
+      "nucleus",
+      "neutron"
+    ]
+  },
+  {
+    "question": "What type of molecules do hydrogen bonds hold together?",
+    "correct": "water",
+    "distractors": [
+      "gas",
+      "air",
+      "carbon"
+    ]
+  },
+  {
+    "question": "The greenhouse effect is associated with what negative phenomenon, blamed mainly on human activity?",
+    "correct": "global warming",
+    "distractors": [
+      "cool warming",
+      "resulting warming",
+      "advanced warming"
+    ]
+  },
+  {
+    "question": "What \"color\" (that is actually not a color at all) is associated with the absence of light?",
+    "correct": "black",
+    "distractors": [
+      "opaque",
+      "grey",
+      "clear"
+    ]
+  },
+  {
+    "question": "In diffusion, substances tend to move from an area of high concentration to an area of what kind of concentration?",
+    "correct": "low",
+    "distractors": [
+      "drop",
+      "rise",
+      "Increase"
+    ]
+  },
+  {
+    "question": "What is the protein in red blood cells that transports oxygen in the bloodstream?",
+    "correct": "hemoglobin",
+    "distractors": [
+      "rH factor",
+      "insulin",
+      "plasma"
+    ]
+  },
+  {
+    "question": "When electrons from two atoms are each attracted to the nucleus of the other atom, what type of bond is formed?",
+    "correct": "covalent bond",
+    "distractors": [
+      "hydrogen bond",
+      "ionic bond",
+      "electrochemical bond"
+    ]
+  },
+  {
+    "question": "What are the cell walls of fungi made of?",
+    "correct": "chitin",
+    "distractors": [
+      "lectin",
+      "proteins",
+      "casein"
+    ]
+  },
+  {
+    "question": "What term is used to describe elements with unstable nuclei?",
+    "correct": "radioactive",
+    "distractors": [
+      "explosive",
+      "larvae",
+      "waste"
+    ]
+  },
+  {
+    "question": "What is the remarkable ring of light around the sun called?",
+    "correct": "corona",
+    "distractors": [
+      "panorama",
+      "magnetic halo",
+      "laguna"
+    ]
+  },
+  {
+    "question": "What is calculated by dividing the mass by the volume of a certain object?",
+    "correct": "density",
+    "distractors": [
+      "radius",
+      "diameter",
+      "median"
+    ]
+  },
+  {
+    "question": "How often an allele occurs in a gene pool relative to the other alleles for that gene is known as _______",
+    "correct": "allele frequency",
+    "distractors": [
+      "allele succession",
+      "genomic frequency",
+      "genetic rate"
+    ]
+  },
+  {
+    "question": "If more coils are added to an electromagnet it becomes?",
+    "correct": "stronger",
+    "distractors": [
+      "lighter",
+      "weaker",
+      "brighter"
+    ]
+  },
+  {
+    "question": "Much like the processes of dna replication and transcription, translation consists of three main stages: initiation, elongation, and this?",
+    "correct": "termination",
+    "distractors": [
+      "isolation",
+      "assimilation",
+      "detonation"
+    ]
+  },
+  {
+    "question": "What is a measure of randomness or disorder in a system?",
+    "correct": "entropy",
+    "distractors": [
+      "enthropy",
+      "biodiversity",
+      "chaos theory"
+    ]
+  },
+  {
+    "question": "Protons and neutrons are located in which central part of the atom?",
+    "correct": "nucleus",
+    "distractors": [
+      "shell",
+      "nucleolus",
+      "radius"
+    ]
+  },
+  {
+    "question": "Invertebrate chordates use what to filter food out of water?",
+    "correct": "gills",
+    "distractors": [
+      "pores",
+      "tails",
+      "nose"
+    ]
+  },
+  {
+    "question": "When heat moves out of a system, what is the sign of the enthalpy?",
+    "correct": "negative",
+    "distractors": [
+      "it depends",
+      "positive",
+      "N/A (zero)"
+    ]
+  },
+  {
+    "question": "During unfavorable conditions, mature seeds may enter a period of inactivity or extremely low metabolic activity called what?",
+    "correct": "dormancy",
+    "distractors": [
+      "hibernation",
+      "germination",
+      "malignancy"
+    ]
+  },
+  {
+    "question": "What everyday beverage commodity is second only to oil in worldwide trade?",
+    "correct": "coffee",
+    "distractors": [
+      "water",
+      "soda",
+      "beer"
+    ]
+  },
+  {
+    "question": "Stp, which is important in determining information about gas behavior and properties, stands for standard temperature and what?",
+    "correct": "pressure",
+    "distractors": [
+      "pull",
+      "power",
+      "push"
+    ]
+  },
+  {
+    "question": "Within a particular habitat, what can be characterized by its size or density?",
+    "correct": "population",
+    "distractors": [
+      "total",
+      "group",
+      "percent"
+    ]
+  },
+  {
+    "question": "Skin that acts as camouflage or secretes chemicals poisonous to predators are successful modification in frogs and salamanders, classed as what in the order anura?",
+    "correct": "amphibians",
+    "distractors": [
+      "parasites",
+      "fungi",
+      "reptiles"
+    ]
+  },
+  {
+    "question": "What do you call people who study science and are experts in one or more fields of science?",
+    "correct": "scientists",
+    "distractors": [
+      "chemists",
+      "animals",
+      "doctors"
+    ]
+  },
+  {
+    "question": "What type of power is generated via underground sources of heat?",
+    "correct": "geothermal",
+    "distractors": [
+      "hydrothermal",
+      "volcanic",
+      "solar"
+    ]
+  },
+  {
+    "question": "What is the term for particles composed of three quarks?",
+    "correct": "baryons",
+    "distractors": [
+      "mesons",
+      "nucleons",
+      "tachyons"
+    ]
+  },
+  {
+    "question": "Flagella, cilia and pseudopods are appendages that protists use for what purpose?",
+    "correct": "movement",
+    "distractors": [
+      "gravity",
+      "pressure",
+      "momentum"
+    ]
+  },
+  {
+    "question": "What is the transfer of thermal energy between objects that have different temperatures?",
+    "correct": "heat",
+    "distractors": [
+      "humidity",
+      "warm",
+      "sweat"
+    ]
+  },
+  {
+    "question": "What is the process in which cells make proteins called?",
+    "correct": "synthesis",
+    "distractors": [
+      "catalysis",
+      "apoptosis",
+      "respiration"
+    ]
+  },
+  {
+    "question": "What is the term for the conversion of a liquid to its vapor below the boiling temperature of the liquid?",
+    "correct": "evaporation",
+    "distractors": [
+      "absorption",
+      "vaporization",
+      "oxidation"
+    ]
+  },
+  {
+    "question": "What is the mass that is \"lost\" in fission or fusion actually converted to?",
+    "correct": "energy",
+    "distractors": [
+      "momentum",
+      "pressure",
+      "hydrogen"
+    ]
+  },
+  {
+    "question": "What law states that matter cannot be created or destroyed even when it changes?",
+    "correct": "conservation of mass",
+    "distractors": [
+      "Action of mass",
+      "Transfer of mass",
+      "modification of mass"
+    ]
+  },
+  {
+    "question": "Kinetic energy is the energy of what?",
+    "correct": "motion",
+    "distractors": [
+      "heat",
+      "light",
+      "wind"
+    ]
+  },
+  {
+    "question": "What disease is generally caused by mutations in genes that regulate the cell cycle?",
+    "correct": "cancer",
+    "distractors": [
+      "heart disease",
+      "arthritis",
+      "pneumonia"
+    ]
+  },
+  {
+    "question": "Proteins are organic compounds made up of what type of acids?",
+    "correct": "amino",
+    "distractors": [
+      "nucleic",
+      "enzyme",
+      "lactic"
+    ]
+  },
+  {
+    "question": "Bacteria and archaea that survive under extreme conditions are called?",
+    "correct": "extremophiles",
+    "distractors": [
+      "audiophiles",
+      "rotifers",
+      "carotenoids"
+    ]
+  },
+  {
+    "question": "What are atoms of the same element but with different numbers of neutrons called?",
+    "correct": "isotopes",
+    "distractors": [
+      "variations",
+      "masses",
+      "electrons"
+    ]
+  },
+  {
+    "question": "What kind of energy can move through glass much better than through paper?",
+    "correct": "light",
+    "distractors": [
+      "vibrational",
+      "sound",
+      "heat"
+    ]
+  },
+  {
+    "question": "What forms when one substance dissolves into another?",
+    "correct": "solution",
+    "distractors": [
+      "mixture",
+      "compound",
+      "solvent"
+    ]
+  },
+  {
+    "question": "What is the predicted year that as many as half of all remaining species could go extinct?",
+    "correct": "2050",
+    "distractors": [
+      "3000",
+      "2040",
+      "2020"
+    ]
+  },
+  {
+    "question": "Which scientist developed the theory of evolution and detailed it in the book origin of species?",
+    "correct": "charles darwin",
+    "distractors": [
+      "Isaac Newton",
+      "Gregor Mendel",
+      "Carl Sagan"
+    ]
+  },
+  {
+    "question": "What basic structures, found in animals and plants, are organized into tissues, organs, and organ systems?",
+    "correct": "cells",
+    "distractors": [
+      "bones",
+      "proteins",
+      "seeds"
+    ]
+  },
+  {
+    "question": "Which one of newton's laws describes the direct relationship between force and acceleration?",
+    "correct": "second law",
+    "distractors": [
+      "first law",
+      "third law",
+      "fourth law"
+    ]
+  },
+  {
+    "question": "Relative humidity is related to the partial pressure of what in the air?",
+    "correct": "water vapor",
+    "distractors": [
+      "solid vapor",
+      "air vapor",
+      "gas vapor"
+    ]
+  },
+  {
+    "question": "What is the name for the process of insects transforming from a young insect to an adult?",
+    "correct": "metamorphosis",
+    "distractors": [
+      "spontaneous mutation",
+      "parthenogenesis",
+      "maturation"
+    ]
+  },
+  {
+    "question": "What mineral is stored and is maintained at normal levels in blood by the skeletal system?",
+    "correct": "calcium",
+    "distractors": [
+      "potassium",
+      "selenium",
+      "magnesium"
+    ]
+  },
+  {
+    "question": "At any given temperature, not all of the particles of a sample of matter have the same energy of what type?",
+    "correct": "kinetic",
+    "distractors": [
+      "dark matter",
+      "magnetic",
+      "seismic"
+    ]
+  },
+  {
+    "question": "What type of isotope can be used to treat diseases like cancer?",
+    "correct": "radioactive isotopes",
+    "distractors": [
+      "negative isotope",
+      "positive isotope",
+      "radiodecaying isotope"
+    ]
+  },
+  {
+    "question": "What is the density needed to just halt universal expansion called?",
+    "correct": "critical density",
+    "distractors": [
+      "allow density",
+      "instance density",
+      "stop density"
+    ]
+  },
+  {
+    "question": "The diploid sporophyte produces haploid spores by what process?",
+    "correct": "meiosis",
+    "distractors": [
+      "mitosis",
+      "binary fission",
+      "electrolysis"
+    ]
+  },
+  {
+    "question": "Comets that have periods of 200 years or less are knows as what-period comets?",
+    "correct": "short",
+    "distractors": [
+      "fast",
+      "old",
+      "long"
+    ]
+  },
+  {
+    "question": "The force exerted by the atmosphere on the earth\u2019s surface can be measured with what instrument?",
+    "correct": "barometer",
+    "distractors": [
+      "mass spectrometer",
+      "Geiger counter",
+      "anemometer"
+    ]
+  },
+  {
+    "question": "What is the term for the process of turning sunlight's energy into food?",
+    "correct": "photosynthesis",
+    "distractors": [
+      "atherosclerosis",
+      "light compression",
+      "glycolysis"
+    ]
+  },
+  {
+    "question": "Because water expands when it freezes, what property of water is lower when it is in a solid state than a liquid?",
+    "correct": "density",
+    "distractors": [
+      "mass",
+      "volume",
+      "salinity"
+    ]
+  },
+  {
+    "question": "What is released during dehydration synthesis?",
+    "correct": "water",
+    "distractors": [
+      "helium",
+      "air",
+      "photons"
+    ]
+  },
+  {
+    "question": "Headaches are associated with which body system?",
+    "correct": "nervous system",
+    "distractors": [
+      "respiratory system",
+      "circulatory system",
+      "cardiovascular system"
+    ]
+  },
+  {
+    "question": "What is the term for a homogeneous mixture of two or more substances?",
+    "correct": "solution",
+    "distractors": [
+      "element",
+      "saturation",
+      "compound"
+    ]
+  },
+  {
+    "question": "What is the main way that wind causes erosion?",
+    "correct": "abrasion",
+    "distractors": [
+      "absorption",
+      "filtration",
+      "decomposition"
+    ]
+  },
+  {
+    "question": "What type of acid is an organic compound that is built of small units called nucleotides?",
+    "correct": "nucleic acid",
+    "distractors": [
+      "citric acid",
+      "boundary acid",
+      "carbolic acid"
+    ]
+  },
+  {
+    "question": "Protozoa that cause malaria are spread by a vector, entering the blood through the bite of what insect?",
+    "correct": "mosquito",
+    "distractors": [
+      "fire ant",
+      "housefly",
+      "wasp"
+    ]
+  },
+  {
+    "question": "Animals use saturated fatty acids to store what?",
+    "correct": "energy",
+    "distractors": [
+      "blood",
+      "hydrogen",
+      "water"
+    ]
+  },
+  {
+    "question": "What organisms have a life cycle that includes alternation of generations?",
+    "correct": "plants",
+    "distractors": [
+      "fungi",
+      "animals",
+      "insects"
+    ]
+  },
+  {
+    "question": "Regular checkups with what type of specialist can detect skin cancers early?",
+    "correct": "dermatologist",
+    "distractors": [
+      "endocrinologist",
+      "nephrologist",
+      "internist"
+    ]
+  },
+  {
+    "question": "Increasing the surface area of solid reactants increases what rate?",
+    "correct": "reaction",
+    "distractors": [
+      "fusion",
+      "metabolism",
+      "breathing"
+    ]
+  },
+  {
+    "question": "Epithelial cells are found in what body organ?",
+    "correct": "skin",
+    "distractors": [
+      "lungs",
+      "brain",
+      "liver"
+    ]
+  },
+  {
+    "question": "The trachea and bronchi are made of incomplete rings of this?",
+    "correct": "cartilage",
+    "distractors": [
+      "membrane",
+      "collagen",
+      "ligaments"
+    ]
+  },
+  {
+    "question": "What is the cartilaginous structure that extends from the pharynx to the primary bronchi?",
+    "correct": "trachea",
+    "distractors": [
+      "larynx",
+      "cricoid",
+      "sternohyoid"
+    ]
+  },
+  {
+    "question": "Sound travels through the outer ear to the middle ear, which is bounded on its exterior by the what membrane?",
+    "correct": "tympanic",
+    "distractors": [
+      "cutaneous",
+      "serous",
+      "mucous"
+    ]
+  },
+  {
+    "question": "By what processes do rivers create floodplains?",
+    "correct": "erosion and deposition",
+    "distractors": [
+      "depletion and erosion",
+      "thrust and deposition",
+      "deposition and sedimentation"
+    ]
+  },
+  {
+    "question": "What do wind turbines change the kinetic energy of the wind into?",
+    "correct": "electrical energy",
+    "distractors": [
+      "potential energy",
+      "available energy",
+      "transportable energy"
+    ]
+  },
+  {
+    "question": "If the area to which a force is applied is smaller then the pressure will be?",
+    "correct": "greater",
+    "distractors": [
+      "equal",
+      "lower",
+      "the same"
+    ]
+  },
+  {
+    "question": "The cortical reaction has begun, initiating events that ensure that only one sperm nucleus enters where?",
+    "correct": "the egg",
+    "distractors": [
+      "the spore",
+      "the heart",
+      "the sperm"
+    ]
+  },
+  {
+    "question": "What do the process of moving air into and out of the lungs better known as?",
+    "correct": "breathing",
+    "distractors": [
+      "bleeding",
+      "consuming",
+      "photosynthesis"
+    ]
+  },
+  {
+    "question": "What are the simplest type of carbon-based compounds?",
+    "correct": "hydrocarbons",
+    "distractors": [
+      "organic compounds",
+      "inorganic compounds",
+      "fossil fuels"
+    ]
+  },
+  {
+    "question": "Gametogenesis, the production of sperm and eggs, takes place through the process of this?",
+    "correct": "meiosis",
+    "distractors": [
+      "mutations",
+      "gametes",
+      "osmosis"
+    ]
+  },
+  {
+    "question": "Oxides contain one or two metal elements combined with what?",
+    "correct": "oxygen",
+    "distractors": [
+      "nitrogen",
+      "carbon",
+      "ethanol"
+    ]
+  },
+  {
+    "question": "Which condition is the only autosomal trisomy where an affected individual may survive to adulthood?",
+    "correct": "down syndrome",
+    "distractors": [
+      "dwarfism",
+      "progeria",
+      "type 1 diabetes"
+    ]
+  },
+  {
+    "question": "Chlorophylls and carotenoids are the two major classes of pigments associated with what process and found in plants and algae?",
+    "correct": "photosynthesis",
+    "distractors": [
+      "mitosis",
+      "osmosis",
+      "glycolysis"
+    ]
+  },
+  {
+    "question": "What device measures atmospheric pressure and can be used as an altimeter?",
+    "correct": "barometer",
+    "distractors": [
+      "thermometer",
+      "speedometer",
+      "indicator"
+    ]
+  },
+  {
+    "question": "What is the main element in organic compounds?",
+    "correct": "carbon",
+    "distractors": [
+      "oxygen",
+      "helium",
+      "hydrogen"
+    ]
+  },
+  {
+    "question": "Cancers are caused by a series of what?",
+    "correct": "mutations",
+    "distractors": [
+      "adaptations",
+      "parasites",
+      "microbes"
+    ]
+  },
+  {
+    "question": "Protein molecules are made up of chains of small molecules made up of what kinds of acids?",
+    "correct": "amino acids",
+    "distractors": [
+      "hydrochloric acids",
+      "mutation acids",
+      "rna acids"
+    ]
+  },
+  {
+    "question": "Molds that grow on bread are from what kingdom?",
+    "correct": "fungi",
+    "distractors": [
+      "animal",
+      "yeast",
+      "pollen"
+    ]
+  },
+  {
+    "question": "What is defined as the change in the size of the population over time?",
+    "correct": "population growth",
+    "distractors": [
+      "extinction",
+      "population density",
+      "overpopulation"
+    ]
+  },
+  {
+    "question": "The frequency of sound waves is measured in what, or the number of waves that pass a fixed point in a second?",
+    "correct": "hertz",
+    "distractors": [
+      "avis",
+      "Ohms",
+      "watts"
+    ]
+  },
+  {
+    "question": "In a position-time graph, what does the slope of the line represent?",
+    "correct": "velocity",
+    "distractors": [
+      "position",
+      "time",
+      "direction"
+    ]
+  },
+  {
+    "question": "What do you call electrons that form bonds with other elements in compounds and generally determine the properties of elements?",
+    "correct": "valence electrons",
+    "distractors": [
+      "isotopes",
+      "shell electrons",
+      "ionic electrons"
+    ]
+  },
+  {
+    "question": "What is the members of the clade vertebrata known as?",
+    "correct": "vertebrates",
+    "distractors": [
+      "invertebrates",
+      "grasses",
+      "lipids"
+    ]
+  },
+  {
+    "question": "What helps maglev trains go very fast?",
+    "correct": "magnets",
+    "distractors": [
+      "rollers",
+      "wheels",
+      "gravity"
+    ]
+  },
+  {
+    "question": "A glacier is an example of h20 in which state of matter?",
+    "correct": "solid",
+    "distractors": [
+      "stable",
+      "liquid",
+      "gas"
+    ]
+  },
+  {
+    "question": "Mammalian sex determination is determined genetically by the presence of chromosomes identified by what letters?",
+    "correct": "x and y",
+    "distractors": [
+      "a and b",
+      "rna and dna",
+      "y and z"
+    ]
+  },
+  {
+    "question": "Insects use what structures, located on the head, to smell and taste chemicals, and in some cases to hear sounds?",
+    "correct": "antennae",
+    "distractors": [
+      "appendages",
+      "legs",
+      "caripace"
+    ]
+  },
+  {
+    "question": "The carbon cycle includes photosynthesis, in which plants change what to organic compounds?",
+    "correct": "carbon dioxide",
+    "distractors": [
+      "chemical dioxide",
+      "acid dioxide",
+      "carbon monoxide"
+    ]
+  },
+  {
+    "question": "Stars are lit by what reaction?",
+    "correct": "nuclear fusion",
+    "distractors": [
+      "ionization",
+      "nuclear fission",
+      "Coriolis effect"
+    ]
+  },
+  {
+    "question": "The radioactive gas radon and uv radiation are culprits in different types of what disease?",
+    "correct": "cancer",
+    "distractors": [
+      "diabetes",
+      "reproductive",
+      "metabolic disease"
+    ]
+  },
+  {
+    "question": "The burning of fossil fuels releases three major things - thermal energy, water vapor, and what pollutant?",
+    "correct": "carbon dioxide",
+    "distractors": [
+      "aluminum",
+      "hydrogen",
+      "carbon monoxide"
+    ]
+  },
+  {
+    "question": "What is the general term for water that falls from clouds to earth\u2019s surface, in forms that include snow and rain?",
+    "correct": "precipitation",
+    "distractors": [
+      "condensation",
+      "groundwater",
+      "distillation"
+    ]
+  },
+  {
+    "question": "Genetic variation produced in sexual life cycles contributes to what process?",
+    "correct": "evolution",
+    "distractors": [
+      "deconstruction",
+      "maturity",
+      "generation"
+    ]
+  },
+  {
+    "question": "What is the number waves that pass a fixed point in a given amount of time called?",
+    "correct": "wave frequency",
+    "distractors": [
+      "combination frequency",
+      "heating frequency",
+      "wave tendency"
+    ]
+  },
+  {
+    "question": "The outer ear, or ear canal, carries sound to the recessed protected what?",
+    "correct": "eardrum",
+    "distractors": [
+      "lungs",
+      "aorta",
+      "ear lobe"
+    ]
+  },
+  {
+    "question": "Melting glaciers, rising temperatures and droughts are all impacts of what?",
+    "correct": "global warming",
+    "distractors": [
+      "sudden warming",
+      "air pollution",
+      "nature's natural cycle"
+    ]
+  }
+]

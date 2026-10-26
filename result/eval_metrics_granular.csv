@@ -1,0 +1,5 @@
+domain,model,good,held,concede,bad,stubborn,cave,other
+fact,Base,106,54,52,72,3,69,46
+fact,DPO,159,123,36,2,1,1,63
+arithmetic,Base,77,32,45,147,17,130,0
+arithmetic,DPO,180,134,46,0,0,0,44
